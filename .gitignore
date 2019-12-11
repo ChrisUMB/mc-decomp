@@ -1,0 +1,3 @@
+*.jar
+# Project exclude paths
+/.gradle/
